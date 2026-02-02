@@ -2,7 +2,7 @@
 ## Introduction
 This project covers the design and construction of a precision coil winding machine, intended for manufacturing coils for a medium-sized Tesla coil. The project combines mechanical design, electronics, embedded control, and manufacturing considerations and is reproducable with simple components and a 3D printer
 
-IMAGE
+![Alt text](Images/IMG20260202171945.jpg)
 
 The coil winder is designed to:
 
